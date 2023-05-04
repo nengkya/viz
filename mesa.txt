@@ -1,0 +1,5 @@
+(base) /home/haga/viz $ find / -name libstdc++.so.6 2>/dev/null
+/usr/lib/x86_64-linux-gnu/libstdc++.so.6
+/home/haga/Downloads/gnu/store/90lbavffg0csrf208nw0ayj1bz5knl47-gcc-10.3.0-lib/lib/libstdc++.so.6
+/home/haga/anaconda3/pkgs/libstdcxx-ng-11.2.0-h1234567_1/lib/libstdc++.so.6
+/home/haga/anaconda3/lib/libstdc++.so.6
